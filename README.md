@@ -1,6 +1,6 @@
 # devoir-git
 Devoir Git 25/10/2020
-01 Nom:
+01 Nom: RIGAUT Gaétan
 01 github:
 02 Nom:
 02 github:
