@@ -7,6 +7,6 @@ Devoir Git 25/10/2020
 03 Nom: GSTALTER Pierre-Louis
 03 github:
 04 Nom: HALLER Antoine
-04 github:
+04 github: hallerantoine
 05 Nom: CROUZET Emmanuel
 05 github: ecrouzet
